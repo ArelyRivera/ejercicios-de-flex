@@ -1,0 +1,33 @@
+.cajagrande{
+    background-color: rgb(182, 182, 196);
+    width: 1000px;
+    height: 100px;
+}
+
+.items{
+    background-color: rgb(182, 182, 196);
+    color:black;
+    font-size: 15px;
+    width: 1000px;
+    height: 100px;
+    margin-bottom: 8px;
+    display:flex;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.items3y4{
+    background-color: rgb(182, 182, 196);
+    color:black;
+    font-size: 15px;
+    display:flex;
+    flex-wrap: wrap;
+
+    width: 1000px;
+    height: 100px;
+    
+    justify-content: center;
+    align-items: center;
+
+}
